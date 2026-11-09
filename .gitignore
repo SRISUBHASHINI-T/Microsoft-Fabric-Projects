@@ -1,0 +1,9 @@
+.env
+*.xlsx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+.venv/

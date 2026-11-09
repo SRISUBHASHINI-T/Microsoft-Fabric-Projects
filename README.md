@@ -48,13 +48,11 @@ PySpark/pandas, and emails a formatted report (Excel or HTML) on a schedule.
 ## Repo layout
 
 ```
-notebooks/
-  01_store_payment_reconciliation.py
-  02_hr_headcount_change_report.py
-  03_weekly_brand_performance.py
-  04_daily_sales_snapshot.py
-sample_data/
-  generate_sample_data.py     # builds fake tables so you can try 01 locally
+01_store_payment_reconciliation.py
+02_hr_headcount_change_report.py
+03_weekly_brand_performance.py
+04_daily_sales_snapshot.py
+generate_sample_data.py      # builds fake tables so you can try 01 locally
 .env.example
 ```
 
